@@ -1,4 +1,4 @@
-# Food Delivery Dashboard Template
+# 🍜 Food Delivery Dashboard Template
 
 > A flexible and customizable food delivery dashboard 
 
